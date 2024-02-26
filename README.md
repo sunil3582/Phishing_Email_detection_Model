@@ -12,6 +12,7 @@ pip install -r requirements.txt
 ```
 Clone the repository in your local space
 ```
+git clone https://github.com/sunil3582/Phishing_Email_detection_Model.git
 ```
 
 # License
